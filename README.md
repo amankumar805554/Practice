@@ -26,4 +26,4 @@ git checkout branchname
 ```
 git branch
 ```
-### Anneyong
+### Anneyonghaseyo
